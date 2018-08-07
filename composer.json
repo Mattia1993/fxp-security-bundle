@@ -15,8 +15,8 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.1.0",
-        "symfony/framework-bundle": "^4.1.0",
-        "symfony/security-bundle": "^4.1.0",
+        "symfony/framework-bundle": "^3.3.0|^4.1.0",
+        "symfony/security-bundle": "^3.3.0|^4.1.0",
         "fxp/security": "^1.0.0"
     },
     "require-dev": {
